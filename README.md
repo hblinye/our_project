@@ -1,2 +1,2 @@
 # our_project
-Nobita's README.
+our_project
